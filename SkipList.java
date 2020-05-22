@@ -1,9 +1,3 @@
-// Shawn McChargue, 
-// COP 3503, Summer 2019 
-// NID: 4232606, 
-// Assignment 4, 
-// Skip Lists!
-
 import java.io.*;
 import java.util.*;
 import java.lang.*;
